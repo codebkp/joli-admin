@@ -22,4 +22,6 @@ Joli is a free admin template/Dashboard/Web App based on Angular JS. Its is resp
 
 **FOR PERSONAL CACHE ONLY**
 
+DEMO: http://codebkp.github.io/joli-admin/joli/
+
 FROM: [http://themifycloud.com/downloads/freee-responsive-bootstrap-joli-angular-js-admin-template-dashboard-web-app/](http://themifycloud.com/downloads/freee-responsive-bootstrap-joli-angular-js-admin-template-dashboard-web-app/)
